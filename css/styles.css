@@ -46,7 +46,9 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 }
-.header-menu a:hover,
+.header-menu a:hover {
+    color: #404bbf;
+}
 .header-menu a:focus {
     color: #404bbf;
 }
@@ -61,7 +63,9 @@ letter-spacing: 0.02em;
 text-align: left;
 
 }
-.header-contacts a:hover,
+.header-contacts a:hover {
+    color: #404bbf;
+}
 .header-contacts a:focus {
     color: #404bbf;
 }
