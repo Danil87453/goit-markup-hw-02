@@ -46,8 +46,8 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 }
-.header-menu-a:hover,
-.header-menu-a:focus {
+.header-menu:hover,
+.header-menu:focus {
     color: #404bbf;
 }
 .contacts {
@@ -61,8 +61,8 @@ letter-spacing: 0.02em;
 text-align: left;
 
 }
-.header-contacts-a:hover,
-.header-contacts-a:focus {
+.header-contacts:hover,
+.header-contacts:focus {
     color: #404bbf;
 }
 /* hero */
